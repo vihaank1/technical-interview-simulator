@@ -205,9 +205,3 @@ Behavioral leadership interview
 - Leaderboards
 - Company-specific interview modes
 - Live collaborative whiteboarding
-
----
-
-# 👨‍💻 Author
-
-Built by Vihaan Kesharwani.
