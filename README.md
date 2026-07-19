@@ -95,7 +95,7 @@ Supports persistent interview sessions with:
 
 ### Home
 
-![Home](assets/home.png)
+![Home](assets/home2.png)
 
 ### Interview Question
 
