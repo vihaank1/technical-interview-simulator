@@ -91,6 +91,22 @@ Supports persistent interview sessions with:
 
 ---
 
+## Screenshots
+
+### Home
+
+![Home](assets/home.png)
+
+### Interview Question
+
+![Question](assets/question.png)
+
+### AI Feedback & Results
+
+![Results](assets/results.png)
+
+---
+
 # 🛠️ Tech Stack
 
 ## Frontend
